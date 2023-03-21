@@ -1,0 +1,1 @@
+net use s: \\bosch.com\dfsrb\dfsbr\LOC\Ca1 /persistent:no
